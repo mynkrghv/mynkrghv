@@ -1,4 +1,4 @@
-### Hi there! I am Mayank Raghav👋
+こんにちは ! I am Mayank Raghav👋
 
 - 🔭 I’m currently working on a video game
 - 🌱 I’m currently learning JavaScript
