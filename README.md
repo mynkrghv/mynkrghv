@@ -1,10 +1,10 @@
 # こんにちは ! I am Mayank Raghav👋
 
-🕹 I’m currently working on a Video Game.
+🕹 I’m currently working on Random Projects.
 
-✍ I’m currently learning JavaScript.
+✍ I’m currently learning Everything About Web Development.
 
-🏍 Ask me anything about Motorcycles.
+💭 Ask me anything about Motorcycles or Tech.
 
 🖥 Fun Fact: Barely Anyone Can Optimize Your System Better Than Me.
 
