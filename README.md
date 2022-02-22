@@ -1,4 +1,5 @@
 # こんにちは ! I am Mayank Raghav👋
+<img align="right" alt="codeSTACKr's GitHub Stats" width="235" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
 🕹 I’m currently working on Random Projects.
 
