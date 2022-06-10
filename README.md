@@ -1,5 +1,7 @@
 # こんにちは ! I am Mayank Raghav👋
-<img align="right" alt="codeSTACKr's GitHub Stats" width="217" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+<img align="right" alt="codeSTACKr's GitHub Stats" height ="132" width="270" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+
+🎓 I'm a 3rd year Computer Science Student.
 
 🕹 I’m currently working on a few Random Projects.
 
