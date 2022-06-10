@@ -16,7 +16,7 @@
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" alt="Linked IN" width="30"/>](https://www.linkedin.com/in/mayank-raghav-92ba5a212/)
 &nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" alt="Twitter" width="30"/>](https://www.twitter.com/mynkrghv/)
+[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" alt="Twitter" width="30"/>](https://www.twitter.com/mynk_rghv/)
 &nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" alt="Instagram" width="30"/>](https://www.instagram.com/mynkrghv/)
 
