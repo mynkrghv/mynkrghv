@@ -1,13 +1,9 @@
 # こんにちは ! I am Mayank Raghav👋
 <img align="right" alt="codeSTACKr's GitHub Stats" width="217" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
-🕹 I’m currently working on Random Projects.
+🕹 I’m currently working on a few Random Projects.
 
 ✍ I’m currently learning Everything About Web Development.
-
-💭 Ask me anything about Motorcycles or Tech.
-
-🖥 Fun Fact: Barely Anybody Can Optimize Your System Better Than Me.
 
 
 ---
