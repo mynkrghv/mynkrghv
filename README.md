@@ -34,13 +34,11 @@
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-dark.svg" />&nbsp;&nbsp;
 
 ---
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mynkrghv&label=Profile%20views&color=0e75b6&style=flat" alt="mynkrghv" /> </p>
+  
+### My Stats:
 
-## My Stats:
+
+<img alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkrghv&theme=blue-green" />
 
 <img align="left" alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mynkrghv&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
----
-
-## My Languages:
-
-<img align="left" alt="Mayank's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkrghv&theme=blue-green" />
